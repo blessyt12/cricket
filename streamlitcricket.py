@@ -7,7 +7,7 @@ import seaborn as sns
 import random
 
 # Load data
-df = pd.read_csv("C:/Users/bless/Downloads/deproject/ODI Cricket Data new1 (2).csv")
+df = pd.read_csv("ODI Cricket Data new1 (2).csv")
 
 # Set visual style
 sns.set(style="whitegrid")
